@@ -6,6 +6,7 @@ Deploy and configure an Ubuntu Server virtual machine on Proxmox to serve as the
 
 ## VM Configuration
 
+- Hypervisor: Proxmox VE
 - OS: Ubuntu Server 24.04.4 LTS
 - vCPU: 4
 - RAM: 8 GB
