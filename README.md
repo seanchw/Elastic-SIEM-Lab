@@ -16,7 +16,7 @@ The primary objective of this project is to design, deploy, and maintain an ente
 
 ### Objectives
 - [x] Have fun lolll
-- [ ] Deploy the Elastic Stack on a dedicated Ubuntu Server virtual machine
+- [x] Deploy the Elastic Stack on a dedicated Ubuntu Server virtual machine
 - [ ] Configure Fleet Server and enroll Elastic Agents
 - [ ] Ingest logs from Windows, Linux, and self-hosted application endpoints
 - [ ] Deploy Sysmon on Windows and collect detailed endpoint telemetry
